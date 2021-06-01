@@ -1,0 +1,16 @@
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\bin\Debug\net5.0\Ukol4.exe
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\bin\Debug\net5.0\Ukol4.deps.json
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\bin\Debug\net5.0\Ukol4.runtimeconfig.json
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\bin\Debug\net5.0\Ukol4.runtimeconfig.dev.json
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\bin\Debug\net5.0\Ukol4.dll
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\bin\Debug\net5.0\ref\Ukol4.dll
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\bin\Debug\net5.0\Ukol4.pdb
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\obj\Debug\net5.0\Ukol4.csprojAssemblyReference.cache
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\obj\Debug\net5.0\Ukol4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\obj\Debug\net5.0\Ukol4.AssemblyInfoInputs.cache
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\obj\Debug\net5.0\Ukol4.AssemblyInfo.cs
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\obj\Debug\net5.0\Ukol4.csproj.CoreCompileInputs.cache
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\obj\Debug\net5.0\Ukol4.dll
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\obj\Debug\net5.0\ref\Ukol4.dll
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\obj\Debug\net5.0\Ukol4.pdb
+F:\Škola\2020-2021\PGA\Úkoly\Pracesesoubory\Ukoly\Ukol4\obj\Debug\net5.0\Ukol4.genruntimeconfig.cache

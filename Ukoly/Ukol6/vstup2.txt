@@ -1,0 +1,3 @@
+Spolecnost: ABC a.s. ,
+ICO: 12345678,
+se sidlem: Moskevska, Praha 10
