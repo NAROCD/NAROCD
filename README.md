@@ -25,4 +25,10 @@ Student at Czech University of Life Sciences in Prague. I have tried positions r
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/NAROCD"><img src="https://github-readme-stats.vercel.app/api?username=NAROCD&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="NAROCD's GitHub stats" /></a>
+
+<a href="http://www.github.com/NAROCD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NAROCD&stroke=3382ed&background=181824&ring=6366f1&fire=6366f1&currStreakNum=3382ed&currStreakLabel=6366f1&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+
 <a href="https://github.com/NAROCD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAROCD&langs_count=10&title_color=6366f1&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
