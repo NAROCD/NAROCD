@@ -1,15 +1,15 @@
-Hi 👋 My name is Daniel
+Hey I'm Dan
 =======================
 
-Junior Developer
+Junior Developer / Student
 ----------------
 
 Student at Czech University of Life Sciences in Prague. I have tried positions ranging from Helpdesk to Developer.
 
 * 🌍  I'm based in Prague
 * ✉️  You can contact me at [daniel.narovec@gmail.com](mailto:daniel.narovec@gmail.com)
-* 🚀  I'm currently working on [Passgenix - C# password manager and generator application.](http://https://github.com/NAROCD/Passgenix)
-* 🧠  I'm learning Currently trying out Express.js with MongoDB
+* 🚀  Working on Passgenix - C# password manager and generator application.
+* 🧠  I'm currently trying out Express.js with MongoDB
 
 ### Skills
 
