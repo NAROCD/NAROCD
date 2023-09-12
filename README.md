@@ -4,7 +4,7 @@ Hey I'm Dan
 Junior Developer / Student
 ----------------
 
-Student at Czech University of Life Sciences in Prague. I have tried positions ranging from Helpdesk to Developer.
+Hello! I'm Dan, a 20-year-old Informatics student at Czech University of Life Sciences in Prague, where I'm passionately delving into the exciting world of technology and software development. My journey in IT began back in 2019, and since that, I’ve been learning the power of .NET and ASP.NET to craft innovative applications. I’m passionate about technology and strive to understand it more.
 
 * 🌍  I'm based in Prague
 * ✉️  You can contact me at [daniel.narovec@gmail.com](mailto:daniel.narovec@gmail.com)
