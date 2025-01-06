@@ -1,24 +1,15 @@
 Hey I'm Dan
 =======================
 
-Junior Developer / Student
-----------------
+👨‍💻 Junior ABAP Developer | Tech Enthusiast in Backend Development & IoT 👨‍💻
 
-Hello! I'm Dan, a 21-year-old Informatics student at Czech University of Life Sciences in Prague, where I'm passionately delving into the exciting world of technology and software development. My journey in IT began back in 2019, and since that, I’ve been learning the power of .NET and ASP.NET to craft innovative applications. I’m passionate about technology and strive to understand it more.
+Driven ABAP developer with a passion for coding and exploring new technologies. I bring hands-on experience in SAP ABAP development, and I’m always keen to expand my skill set with the latest in JavaScript/TypeScript libraries for backend applications. With a growing interest in the IoT space, I'm constantly learning how to connect digital solutions with real-world devices, aiming to build efficient, scalable systems that push technology forward.
 
-* 🌍  I'm based in Prague
-* ✉️  You can contact me at [daniel.narovec@gmail.com](mailto:daniel.narovec@gmail.com)
-* 🚀  Working on Passgenix - C# password manager and generator application.
-* 🧠  I'm currently trying out Express.js with MongoDB
+🔹 Skills: ABAP, JavaScript, TypeScript, Backend Development
 
-### Skills
+🔹 Interests: Exploring IoT solutions, Continuous Learning, Integrating Modern Tech into SAP Environments
 
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
+Let's connect to explore how technology can drive business innovation!
 
 ### Socials
 
@@ -29,7 +20,3 @@ Hello! I'm Dan, a 21-year-old Informatics student at Czech University of Life Sc
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/NAROCD"><img src="https://github-readme-stats.vercel.app/api?username=NAROCD&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="NAROCD's GitHub stats" /></a>
-
-<a href="http://www.github.com/NAROCD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NAROCD&stroke=3382ed&background=181824&ring=6366f1&fire=6366f1&currStreakNum=3382ed&currStreakLabel=6366f1&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="https://github.com/NAROCD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAROCD&langs_count=10&title_color=6366f1&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
